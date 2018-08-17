@@ -1,0 +1,8 @@
+github.com/Piszmog/cfservices v1.2.0 h1:qro2rdtFs7ifYrmxEY/dwTj84p0Qq7FlNE8Ucajkh44=
+github.com/Piszmog/cfservices v1.2.0/go.mod h1:uxLe5gKNnODE9Bt1aJd5WjaeTg8/Qr6Dibd1wFgfAwk=
+github.com/go-redis/redis v6.13.2+incompatible h1:kfEWSpgBs4XmuzGg7nYPqhQejjzU9eKdIL0PmE2TtRY=
+github.com/go-redis/redis v6.13.2+incompatible/go.mod h1:NAIEuMOZ/fxfXJIrKDQDz8wamY7mA7PouImQ2Jvg6kA=
+github.com/google/uuid v0.0.0-20171129191014-dec09d789f3d/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
+github.com/julienschmidt/httprouter v0.0.0-20180715161854-348b672cd90d h1:of6+TpypLAaiv4JxgH5aplBZnt0b65B4v4c8q5oy+Sk=
+github.com/julienschmidt/httprouter v0.0.0-20180715161854-348b672cd90d/go.mod h1:SYymIcj16QtmaHHD7aYtjjsJG7VTCxuUUipMqKk8s4w=
+github.com/pkg/errors v0.8.0/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=

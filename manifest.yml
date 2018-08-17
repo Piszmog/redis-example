@@ -1,0 +1,11 @@
+---
+applications:
+  - name: piszmog-redis-demo
+    buildpack: go_buildpack
+    memory: 5M
+    instances: 1
+    env:
+      GOPACKAGENAME: github.com/Piszmog/redis-example
+      GOVERSION: go1.10
+    services:
+     - redis
